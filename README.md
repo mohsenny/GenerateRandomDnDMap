@@ -7,8 +7,11 @@ python draw.py
 ```
 
 ## Examples
-![random_persian_carpet](https://github.com/mohsenny/GenerateRandomDnDMap/assets/1129811/55e3cda0-bb65-4df2-8c96-a0626c4d8a51)
 
-![random_persian_carpet (1)](https://github.com/mohsenny/GenerateRandomDnDMap/assets/1129811/af0c8f1c-069e-4a58-a9ef-4db74136354a)
+![random_persian_carpet_v4](https://github.com/mohsenny/RandomPersianRugGenerator/assets/1129811/33e62c47-3ee9-47d1-8fbc-0559319e6e9b)
 
-![random_persian_carpet (2)](https://github.com/mohsenny/GenerateRandomDnDMap/assets/1129811/4eb43576-6ec6-476b-a312-6a522905e91c)
+![random_persian_carpet_v4 (1)](https://github.com/mohsenny/RandomPersianRugGenerator/assets/1129811/0cfe683b-5718-43a8-aede-6f3e503246a7)
+
+![random_persian_carpet_v4 (2)](https://github.com/mohsenny/RandomPersianRugGenerator/assets/1129811/021cf994-7b8d-42e4-85b8-6e050c02c44f)
+
+![random_persian_carpet_v4 (3)](https://github.com/mohsenny/RandomPersianRugGenerator/assets/1129811/55becfca-4d52-4cc0-812c-8ec4c6ca1197)
